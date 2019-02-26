@@ -14,3 +14,6 @@ This will be the game engine which follows the rules of bowling:
 * A `strike` is when the player knocks down all 10 pins in 1 try. The bonus is the next 2 rolls.
 * In the tenth frame a player who rolls a spare / strike gets an extra roll(s) to complete the frame.
 * No more than 3 rolls can be rolled in the 10th frame.
+
+## run unit tests
+python -m unittest
